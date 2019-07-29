@@ -1,2 +1,8 @@
 .DS_Store
 *.simg
+*.ipynb_checkpoints
+*__pycache__
+*glove*
+*my_mnist.data
+*~
+
